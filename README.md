@@ -27,7 +27,7 @@ Je construis des applications web modernes avec **Vue.js**, **React**, **Node.js
 
 ## 🌐 Contact & Réseaux
 
-- 📧 Email : jeremy@example.com  
+- 📧 Email : zuckjeremy0@example.com  
 - 🔗 LinkedIn : [linkedin.com/in/jeremymvula](https://linkedin.com/in/jeremymvula)  
 - 🌐 Portfolio : [https://jeremyportfolio.com](https://jeremyportfolio.com)
 
@@ -61,5 +61,5 @@ Je construis des applications web modernes avec **Vue.js**, **React**, **Node.js
 Je suis actuellement **ouvert à des missions freelance ou CDI** dans le développement web Fullstack.  
 Si tu souhaites collaborer sur un projet **Vue.js / Node.js / TypeScript**, n’hésite pas à me contacter !  
 
-- ✉️ Email : jeremy@example.com  
+- ✉️ Email : zuckjeremy0@example.com  
 - 💬 LinkedIn : [linkedin.com/in/jeremymvula](https://linkedin.com/in/jeremymvula)
